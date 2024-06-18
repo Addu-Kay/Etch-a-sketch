@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.rounded-box {
+    border-radius: 5px;
+}
+
+/* flex */
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.jc-c {
+    justify-content: center;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.flex-gap {
+    gap: 60px;
+}
+
+.flex-low-gap {
+    gap: 10px;
+}
+
+.py {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
