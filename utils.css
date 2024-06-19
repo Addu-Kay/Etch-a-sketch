@@ -1,45 +1,45 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 
 .rounded-box {
-    border-radius: 5px;
+  border-radius: 5px;
 }
 
 /* flex */
 .flex {
-    display: flex;
+  display: flex;
 }
 
 .flex-col {
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .jc-c {
-    justify-content: center;
+  justify-content: center;
 }
 
 .jc-sb {
-    justify-content: space-between;
+  justify-content: space-between;
 }
 
 .ai-c {
-    align-items: center;
+  align-items: center;
 }
 
 .flex-gap {
-    gap: 60px;
+  gap: 60px;
 }
 
 .flex-low-gap {
-    gap: 10px;
+  gap: 10px;
 }
 
 .py {
-    padding-top: 20px;
+  padding-top: 20px;
 }
